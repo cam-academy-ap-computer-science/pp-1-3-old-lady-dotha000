@@ -74,7 +74,7 @@ public class OldLady {
 	public static void verse6() {
 		swallow();
 		System.out.println("a horse,");
-		System.out.println("She died of course");
+		System.out.println("She died of course.");
 	}
 	public static void swallow() {
 		System.out.print("There was an old lady who swallowed ");
