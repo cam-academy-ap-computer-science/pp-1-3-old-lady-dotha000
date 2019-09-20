@@ -1,4 +1,12 @@
-
+/***
+ * Grading Comments:
+ *  Just about perfect.   Excellent work.
+ *  Compile/Run: 15/15
+ *  Desired Output: 6/6
+ *  Consistency:  2/2
+ *  Efficiency:   2/2
+ * 25/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
